@@ -1,4 +1,6 @@
-# Customer Churn Prediction Project
+## Live App
+
+Try the interactive churn prediction app here: [Streamlit App](https://fahmi-codes-churn-prediction-project-srcapp-gpwwln.streamlit.app/)# Customer Churn Prediction Project
 
 ## Overview
 This is a **Customer Churn Prediction** project built with Python, Pandas, Scikit-Learn, and Streamlit. The project predicts whether a customer will **churn (leave)** or **stay** based on their account and usage information.  
